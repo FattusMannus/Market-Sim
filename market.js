@@ -11,8 +11,7 @@ var shop1 = {
         qualities: ["green"],
         baseValue: 30,
         rarity: "Rare"
-    },
-    {
+    },{
         name: "Shop Item 3",
         qualities: ["yellow"],
         baseValue: 45,
